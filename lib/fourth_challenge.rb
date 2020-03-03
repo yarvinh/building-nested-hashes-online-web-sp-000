@@ -18,7 +18,7 @@ def fourth_challenge
       ]
    }
 }
-
+ montague[hero][status] = "dead"
 
 
 end
